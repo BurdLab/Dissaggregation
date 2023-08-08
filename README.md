@@ -57,3 +57,6 @@ you should increase the number sections until this ratio is acceptable. These qu
 are calculated in the functions `SectionalMassBalance.m` (which calculates all processes
 adding and removing particles to a size bin) and `TotalMassBalance.m` which calculates
 the system-wide gains and losses (these should balance in steady state). 
+
+[![DOI](https://zenodo.org/badge/675719495.svg)](https://zenodo.org/badge/latestdoi/675719495)
+
